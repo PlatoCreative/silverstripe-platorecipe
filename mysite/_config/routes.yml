@@ -1,0 +1,8 @@
+---
+Name: mysiteroutes
+After: framework/routes#coreroutes
+---
+SilverStripe\Control\Director:
+  rules:
+    profile//$Action!/$ID!: ProfilePage_Controller
+    video//$Action/$ID: PageController

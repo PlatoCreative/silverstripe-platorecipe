@@ -1,0 +1,12 @@
+---
+Name: mysite
+---
+SilverStripe\i18n\i18n:
+  default_locale: en_NZ
+Database:
+  name: ss_platotemplates
+SilverStripe\View\SSViewer:
+  theme: base
+  rewrite_hash_links: false
+GDBackend:
+  default_quality: 90

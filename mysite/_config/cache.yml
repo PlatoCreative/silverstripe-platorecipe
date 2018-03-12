@@ -1,0 +1,40 @@
+---
+Only:
+  moduleexists: tractorcow/silverstripe-dynamiccache
+---
+DynamicCache:
+  enabled: true
+  cacheDir: dynamic_cache
+  cacheDuration: 604800
+  ignoredPages:
+    - SilverStripe\UserForms\Model\UserDefinedForm
+SilverStripe\SiteConfig\SiteConfig:
+  extensions:
+    - DynamicCacheDataObjectExtension
+Section:
+  extensions:
+    - DynamicCacheDataObjectExtension
+Location:
+  extensions:
+    - DynamicCacheDataObjectExtension
+Profile:
+  extensions:
+    - DynamicCacheDataObjectExtension
+Banner:
+  extensions:
+    - DynamicCacheDataObjectExtension
+ContentGroup:
+  extensions:
+    - DynamicCacheDataObjectExtension
+EmbedObject:
+  extensions:
+    - DynamicCacheDataObjectExtension
+Price:
+  extensions:
+    - DynamicCacheDataObjectExtension
+PriceCategory:
+  extensions:
+    - DynamicCacheDataObjectExtension
+Tile:
+  extensions:
+    - DynamicCacheDataObjectExtension

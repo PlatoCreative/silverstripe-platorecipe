@@ -1,0 +1,62 @@
+{
+  "name": "plato-creative/silverstipe-platorecipe",
+  "description": "Installs commonly used modules by PlatoCreative.",
+  "type": "silverstripe-vendormodule",
+  "license": "BSD-3-Clause",
+  "authors": [
+    {
+      "name": "Plato Creative",
+      "email": "web@platocreative.co.nz"
+    }
+  ],
+  "keywords": [
+    "silverstripe",
+    "plato",
+    "modules"
+  ],
+  "homepage": "http://github.com/PlatoCreative/silverstripe-platorecipe",
+  "require": {
+    "silverstripe/recipe-plugin": "^1",
+    "silverstripe/assets": "^1.0",
+    "silverstripe/config": "^1.0",
+    "silverstripe/framework": "^4.0.2",
+    "silverstripe/admin": "1.0",
+    "silverstripe/asset-admin": "1.0",
+    "silverstripe/campaign-admin": "1.0",
+    "silverstripe/cms": "4.0",
+    "silverstripe/errorpage": "1.0",
+    "silverstripe/graphql": "1.0",
+    "silverstripe/reports": "4.0",
+    "silverstripe/siteconfig": "4.0",
+    "silverstripe/versioned": "^1.0",
+    "silverstripe/userforms": "^5.0",
+    "plato-creative/plato-external-login": "^4.0",
+    "plato-creative/plato-welcome": "^4.0",
+    "kinglozzer/metatitle": "^2.0",
+    "unclecheese/betterbuttons": "^2.0",
+    "jonom/focuspoint": "^3.0",
+    "symbiote/silverstripe-gridfieldextensions": "^3.1",
+    "gorriecoe/silverstripe-dbstringextras": "^1.0",
+    "gorriecoe/silverstripe-editkey": "^1.0",
+    "gorriecoe/silverstripe-embed": "^1.0",
+    "gorriecoe/silverstripe-groupbycount": "^1.0",
+    "gorriecoe/silverstripe-gtm": "^1.0",
+    "gorriecoe/silverstripe-htmltag": "^1.0",
+    "gorriecoe/silverstripe-link": "^1.0",
+    "gorriecoe/silverstripe-menu": "^1.0",
+    "gorriecoe/silverstripe-sreg": "^1.0",
+    "gorriecoe/silverstripe-webfonts": "^1.0"
+  },
+  "extra": {
+    "installer-name": "platorecipe",
+    "project-files": [
+      "mysite/*",
+      "themes/*"
+    ]
+  },
+  "config": {
+    "process-timeout": 600
+  },
+  "prefer-stable": true,
+  "minimum-stability": "dev"
+}

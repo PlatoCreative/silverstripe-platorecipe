@@ -1,0 +1,15 @@
+---
+Name: myfluentconfig
+After: '#fluentconfig'
+---
+Fluent:
+  default_locale: en_US
+  disable_default_prefix: true
+  locales:
+    - en_US
+    - zh_CN
+    - zh_HK
+  aliases:
+    en_US: en
+    zh_CN: zh
+    zh_HK: hk
