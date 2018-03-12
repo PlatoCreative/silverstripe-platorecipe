@@ -10,3 +10,10 @@ SilverStripe\View\SSViewer:
   rewrite_hash_links: false
 GDBackend:
   default_quality: 90
+SilverStripe\Admin\LeftAndMain:
+  cms_background: '#000000'
+  cms_color: '#ffffff'
+  cms_hover_background: '#000000'
+  cms_active_background: '#000000'
+  cms_active_color: '#ffffff'
+  cms_drawer_background: '#000000'
