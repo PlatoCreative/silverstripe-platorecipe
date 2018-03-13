@@ -17,3 +17,11 @@ SilverStripe\Admin\LeftAndMain:
   cms_active_background: '#000000'
   cms_active_color: '#ffffff'
   cms_drawer_background: '#000000'
+BetterBrief\GoogleMapField:
+  default_options:
+    api_key: api_key_here
+    show_search_box: true
+    default_field_values:
+      Latitude: '-40.900557'
+      Longitude: '174.88597100000004'
+      Zoom: 9
