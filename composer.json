@@ -38,6 +38,7 @@
     "gorriecoe/silverstripe-gtm": "^1.0",
     "gorriecoe/silverstripe-htmltag": "^1.0",
     "gorriecoe/silverstripe-link": "^1.0",
+    "gorriecoe/silverstripe-linkfield": "dev-master",
     "gorriecoe/silverstripe-menu": "^1.0",
     "gorriecoe/silverstripe-sreg": "^1.0",
     "gorriecoe/silverstripe-webfonts": "^1.0",
