@@ -48,7 +48,6 @@
     "plato-creative/plato-external-login": "^4.0",
     "plato-creative/plato-welcome": "^4.0",
     "ryanpotter/silverstripe-cms-theme": "^2.0",
-    "unclecheese/betterbuttons": "^2.0",
     "undefinedoffset/silverstripe-nocaptcha": "^2.0",
     "symbiote/silverstripe-gridfieldextensions": "^3.1"
   },
