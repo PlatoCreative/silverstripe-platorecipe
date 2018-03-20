@@ -32,6 +32,7 @@
     "silverstripe/userforms": "^5.0",
     "betterbrief/silverstripe-googlemapfield": "^2.1",
     "bummzack/sortablefile": "^2.0",
+    "gorriecoe/silverstripe-dataobjecthistory": "^1.0",
     "gorriecoe/silverstripe-dbstringextras": "^1.0",
     "gorriecoe/silverstripe-editkey": "^1.0",
     "gorriecoe/silverstripe-embed": "^1.0",
