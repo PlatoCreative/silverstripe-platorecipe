@@ -39,6 +39,7 @@ composer require plato-creative/silverstripe-platorecipe
 - [gorriecoe/silverstripe-menu](https://github.com/gorriecoe/silverstripe-menu)
 - [gorriecoe/silverstripe-sreg](https://github.com/gorriecoe/silverstripe-sreg)
 - [gorriecoe/silverstripe-webfonts](https://github.com/gorriecoe/silverstripe-webfonts)
+- [gorriecoe/silverstripe-robots](https://github.com/gorriecoe/silverstripe-robots)
 - [plato-creative/plato-external-login](https://github.com/PlatoCreative/plato-external-login)
 - [plato-creative/plato-welcome](https://github.com/PlatoCreative/plato-welcome)
 - [ryanpotter/silverstripe-cms-theme](https://github.com/Rhym/silverstripe-cms-theme)
