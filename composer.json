@@ -51,7 +51,8 @@
     "plato-creative/plato-welcome": "^4.0",
     "ryanpotter/silverstripe-cms-theme": "^2.0",
     "undefinedoffset/silverstripe-nocaptcha": "^2.0",
-    "symbiote/silverstripe-gridfieldextensions": "^3.1"
+    "symbiote/silverstripe-gridfieldextensions": "^3.1",
+    "wilr/silverstripe-googlesitemaps": "^2.1"
   },
   "extra": {
     "installer-name": "platorecipe",
