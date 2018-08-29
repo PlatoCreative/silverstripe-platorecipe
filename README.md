@@ -34,7 +34,6 @@ composer require plato-creative/silverstripe-platorecipe
 - [gorriecoe/silverstripe-embed](https://github.com/gorriecoe/silverstripe-embed)
 - [gorriecoe/silverstripe-groupbycount](https://github.com/gorriecoe/silverstripe-groupbycount)
 - [gorriecoe/silverstripe-gtm](https://github.com/gorriecoe/silverstripe-gtm)
-- [gorriecoe/silverstripe-htmltag](https://github.com/gorriecoe/silverstripe-htmltag)
 - [gorriecoe/silverstripe-link](https://github.com/gorriecoe/silverstripe-link)
 - [gorriecoe/silverstripe-menu](https://github.com/gorriecoe/silverstripe-menu)
 - [gorriecoe/silverstripe-meta](https://github.com/gorriecoe/silverstripe-meta)
