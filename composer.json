@@ -16,7 +16,7 @@
   ],
   "homepage": "http://github.com/PlatoCreative/silverstripe-platorecipe",
   "require": {
-    "silverstripe/recipe-cms": "dev-master",
+    "silverstripe/recipe-cms": "4.2.x-dev",
     "silverstripe/userforms": "5.2.*",
     "silverstripe/tagfield": "^2.0",
     "betterbrief/silverstripe-googlemapfield": "^2.1",
