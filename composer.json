@@ -18,9 +18,9 @@
   "require": {
     "silverstripe/recipe-cms": "^4.3.0",
     "silverstripe/userforms": "5.2.*",
-    "silverstripe/tagfield": "^2.0",
+    "silverstripe/tagfield": "2.*",
     "betterbrief/silverstripe-googlemapfield": "^2.1",
-    "bummzack/sortablefile": "^2.0",
+    "bummzack/sortablefile": "2.*",
     "gorriecoe/silverstripe-dataobjecthistory": "^1.0",
     "gorriecoe/silverstripe-dbstringextras": "^1.0",
     "gorriecoe/silverstripe-editkey": "^1.0",
